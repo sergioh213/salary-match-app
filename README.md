@@ -1,6 +1,9 @@
-# my-testing-setup
+# Sennder Coding Challenge
 
-> A Vue.js project
+> A Vue.js project for Sennder.
+
+A quick app to check whether there is a match between employee minimum expected salary and employer maximum offer.
+With a weather API (because why not).
 
 ## Build Setup
 
@@ -24,4 +27,4 @@ npm run unit
 npm test
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Made by **Sergio Herrero**
